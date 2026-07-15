@@ -86,5 +86,3 @@ This project presents an end-to-end **Inventory Management & Business Intelligen
 - Business Intelligence
 
 ---
-
-⭐ If you found this project useful, feel free to star this repository!
